@@ -24,3 +24,4 @@ function printSequence(sequence) {
 const numberOfTerms = 10;
 const fibonacciSequence = generateFibonacciSequence(numberOfTerms);
 printSequence(fibonacciSequence);
+
