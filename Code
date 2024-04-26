@@ -25,3 +25,4 @@ const numberOfTerms = 10;
 const fibonacciSequence = generateFibonacciSequence(numberOfTerms);
 printSequence(fibonacciSequence);
 
+const f
